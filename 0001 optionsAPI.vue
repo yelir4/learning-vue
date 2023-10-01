@@ -1,4 +1,5 @@
-<!-- main.vue -->
+<!-- sourced from vuejs.org/tutorual -->
+<!-- taking notes because i want to learn it, its 9/30/23 -->
 <!-- single-file component, html + js + css -->
 
 <!-- api style: OPTIONS API -->
